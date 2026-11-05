@@ -1,0 +1,16 @@
+
+These topics are particularly valuable for your project.
+Topic	Context
+Large Language Models	AI models trained on large datasets to understand and generate language
+Fine-tuning	Adapting a pretrained model using additional training data
+Prompt Engineering	Designing instructions to guide model outputs
+Context Window	Maximum amount of input and output tokens a model can process
+Hallucination	Generation of inaccurate or unsupported information
+Knowledge Graph	Structured representation of entities and their relationships
+Agentic AI	AI systems that can plan and execute multi-step tasks using tools
+Multimodal AI	AI that processes multiple data types, such as text, images, and audio
+Quantization	Reducing model numerical precision to lower memory and computation requirements
+Hybrid Retrieval	Combining keyword search with vector-based semantic search
+Query Expansion	Generating alternative query formulations to improve retrieval
+Contextual Compression	Reducing retrieved content to retain only relevant information
+RAG Evaluation	Measuring the relevance, accuracy, and usefulness of retrieved information and generated answers
