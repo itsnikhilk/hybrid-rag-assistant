@@ -1,3 +1,8 @@
-The Internet of Things refers to a network of physical devices connected to the internet that collect, exchange, and process information. These devices may include smart home appliances, industrial sensors, wearable devices, connected vehicles, and environmental monitoring systems. IoT devices typically contain sensors, communication modules, processors, and software that allow them to interact with other systems.
+The Internet of Things refers to a network of physical devices connected to the internet that collect, exchange, and process information.
+These devices may include smart home appliances, industrial sensors, wearable devices, connected vehicles, and environmental monitoring systems. 
+IoT devices typically contain sensors, communication modules, processors, and software that allow them to interact with other systems.
 
-In smart homes, IoT technology allows users to remotely control lighting, temperature, security cameras, and household appliances. In agriculture, connected sensors monitor soil moisture, temperature, and environmental conditions to support efficient irrigation and crop management. Industrial IoT systems monitor machinery, production lines, and equipment performance to identify potential maintenance requirements. IoT applications generate large amounts of data that can be analyzed using cloud computing, edge computing, and machine learning technologies.
+In smart homes, IoT technology allows users to remotely control lighting, temperature, security cameras, and household appliances. In agriculture, connected 
+sensors monitor soil moisture, temperature, and environmental conditions to support efficient irrigation and crop management. Industrial IoT systems monitor 
+machinery, production lines, and equipment performance to identify potential maintenance requirements. IoT applications generate large amounts of data that can be 
+analyzed using cloud computing, edge computing, and machine learning technologies.
