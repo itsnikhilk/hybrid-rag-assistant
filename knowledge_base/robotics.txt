@@ -1,3 +1,8 @@
-Robotics is an engineering discipline that combines mechanical systems, electronics, sensors, and computer programming to create machines capable of performing physical tasks. Robots are used in manufacturing, healthcare, logistics, agriculture, exploration, and scientific research. Industrial robots perform repetitive operations such as welding, assembling, painting, and material handling.
+Robotics is an engineering discipline that combines mechanical systems, electronics, sensors, and computer programming to create machines capable of performing 
+physical tasks. Robots are used in manufacturing, healthcare, logistics, agriculture, exploration, and scientific research. Industrial robots perform repetitive 
+operations such as welding, assembling, painting, and material handling.
 
-Automation refers to the use of technology to perform tasks with reduced manual intervention. Robotic Process Automation (RPA) uses software bots to perform repetitive digital tasks such as data entry, document processing, invoice management, and report generation. Artificial intelligence can improve automation by enabling systems to recognize patterns, interpret information, and make decisions within defined operational boundaries. Human supervision remains important for safety-critical and complex operations.
+Automation refers to the use of technology to perform tasks with reduced manual intervention. Robotic Process Automation (RPA) uses software bots to perform 
+repetitive digital tasks such as data entry, document processing, invoice management, and report generation. Artificial intelligence can improve automation by 
+enabling systems to recognize patterns, interpret information, and make decisions within defined operational boundaries. Human supervision remains important for 
+safety-critical and complex operations.
