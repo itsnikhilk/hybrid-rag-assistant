@@ -1,3 +1,7 @@
-Software engineering is the systematic process of designing, developing, testing, deploying, and maintaining software applications. It involves programming languages, software architecture, version control, testing methodologies, security practices, and project management.
+Software engineering is the systematic process of designing, developing, testing, deploying, and maintaining software applications. It involves programming 
+languages, software architecture, version control, testing methodologies, security practices, and project management.
 
-An Application Programming Interface (API) allows different software applications to communicate and exchange information through predefined rules and interfaces. REST APIs commonly use HTTP methods such as GET, POST, PUT, and DELETE to perform operations on resources. JSON is a widely used data exchange format because it is lightweight and easy to process. Microservices architecture divides applications into smaller independent services that communicate through APIs or messaging systems. This architecture can improve modularity and independent deployment, although it introduces additional networking and operational complexity.
+An Application Programming Interface (API) allows different software applications to communicate and exchange information through predefined rules and interfaces. 
+REST APIs commonly use HTTP methods such as GET, POST, PUT, and DELETE to perform operations on resources. JSON is a widely used data exchange format because it is
+lightweight and easy to process. Microservices architecture divides applications into smaller independent services that communicate through APIs or messaging 
+systems. This architecture can improve modularity and independent deployment, although it introduces additional networking and operational complexity.
