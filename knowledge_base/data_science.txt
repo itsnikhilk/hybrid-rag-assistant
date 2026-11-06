@@ -1,3 +1,8 @@
-Data science combines statistics, programming, mathematics, and domain knowledge to extract meaningful insights from structured and unstructured data. Organizations collect data from websites, applications, sensors, transactions, and business operations. Data scientists clean, organize, analyze, and visualize this information to identify trends and support decision-making.
+Data science combines statistics, programming, mathematics, and domain knowledge to extract meaningful insights from structured and unstructured data. 
+Organizations collect data from websites, applications, sensors, transactions, and business operations. Data scientists clean, organize, analyze, and visualize 
+this information to identify trends and support decision-making.
 
-Big Data refers to datasets that are difficult to manage using traditional data processing approaches because of their volume, velocity, variety, and complexity. Data processing technologies such as Apache Spark and distributed storage systems help process large datasets across multiple computing resources. Data visualization tools transform analytical results into charts, graphs, and dashboards. Predictive analytics uses historical data and statistical or machine learning models to estimate future outcomes.
+Big Data refers to datasets that are difficult to manage using traditional data processing approaches because of their volume, velocity, variety, and complexity. 
+Data processing technologies such as Apache Spark and distributed storage systems help process large datasets across multiple computing resources.
+Data visualization tools transform analytical results into charts, graphs, and dashboards. Predictive analytics uses historical data and statistical or machine
+learning models to estimate future outcomes.
