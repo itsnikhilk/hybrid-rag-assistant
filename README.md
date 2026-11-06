@@ -12,19 +12,18 @@ An open-source Retrieval-Augmented Generation (RAG) tool built with **LangChain*
 - **Flexible LLMs:** Integrated with OpenRouter to easily swap underlying models.
 
 ---
-
-## Project Structure
-
-```text
+# Project Structure Tree
 .
 ├── knowledge_base/        # Place your source .txt files here
-│   └── sample.txt
+│   ├── artificial_intelligence.txt
+│   ├── cybersecurity.txt
+│   ├── cloud_computing.txt
+│   └── ...
 ├── .env.example           # Environment variable template
 ├── .gitignore             # Standard git ignore file
 ├── main.py                # Main script execution
 ├── README.md              # Project documentation
 └── requirements.txt       # Project dependencies
-```
 
 ---
 
@@ -79,6 +78,14 @@ python main.py
 
 ---
 
+## Example Queries
+
+When you run the script, you can test it with topics included in the knowledge base, such as:
+- *"What is cloud computing?"*
+- *"What are the key concepts of artificial intelligence?"*
+- *"How does cybersecurity protect digital infrastructure?"*
+
+---
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

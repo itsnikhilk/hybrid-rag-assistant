@@ -61,6 +61,10 @@ def main():
         weights=[0.5, 0.5]
     )
 
+    print("\n--- Knowledge Base Ready ---")
+    print("Example topics: AI, Cybersecurity, Cloud Computing, Blockchain")
+    print("Sample query: 'What is cloud computing?'\n")
+
     query = input("Enter your query: ")
     retrieved_docs = hybrid_retriever.invoke(query)
 
