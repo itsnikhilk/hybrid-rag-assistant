@@ -1,3 +1,8 @@
-Cloud computing is a technology that provides computing resources such as servers, storage, databases, networking, and software through internet-based services. Instead of purchasing and maintaining physical infrastructure, organizations can access computing resources from cloud service providers according to their requirements. This model offers flexibility, scalability, and reduced infrastructure management responsibilities.
+Cloud computing is a technology that provides computing resources such as servers, storage, databases, networking, and software through internet-based services. 
+Instead of purchasing and maintaining physical infrastructure, organizations can access computing resources from cloud service providers according to their
+requirements. This model offers flexibility, scalability, and reduced infrastructure management responsibilities.
 
-Infrastructure as a Service (IaaS) provides virtualized computing resources such as virtual machines, storage, and networks. Platform as a Service (PaaS) provides an environment for developing, testing, and deploying applications without managing the underlying infrastructure. Software as a Service (SaaS) delivers complete software applications through the internet. Popular cloud computing platforms include Amazon Web Services, Microsoft Azure, and Google Cloud Platform. Cloud computing is widely used for website hosting, application development, data storage, machine learning, and enterprise software.
+Infrastructure as a Service (IaaS) provides virtualized computing resources such as virtual machines, storage, and networks. Platform as a Service (PaaS) provides 
+an environment for developing, testing, and deploying applications without managing the underlying infrastructure. Software as a Service (SaaS) delivers complete 
+software applications through the internet. Popular cloud computing platforms include Amazon Web Services, Microsoft Azure, and Google Cloud Platform. Cloud 
+computing is widely used for website hosting, application development, data storage, machine learning, and enterprise software.
