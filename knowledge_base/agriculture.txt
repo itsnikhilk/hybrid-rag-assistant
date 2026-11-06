@@ -1,3 +1,7 @@
-Agriculture involves the cultivation of crops and the raising of animals for food, fiber, and other resources. Modern agriculture increasingly uses technology to improve productivity, manage resources, and reduce operational costs. Precision agriculture combines GPS technology, satellite imagery, soil sensors, weather information, and data analytics to support better farming decisions.
+Agriculture involves the cultivation of crops and the raising of animals for food, fiber, and other resources. Modern agriculture increasingly uses technology
+to improve productivity, manage resources, and reduce operational costs. Precision agriculture combines GPS technology, satellite imagery, soil sensors,
+weather information, and data analytics to support better farming decisions.
 
-Smart irrigation systems use soil moisture measurements and weather information to determine when crops need water. Agricultural drones can capture aerial images that help farmers monitor crop growth and identify potential problems. Machine learning models can analyze environmental and agricultural data to support crop yield prediction, disease identification, and resource planning. Digital agricultural platforms also provide farmers with market information, weather forecasts, and agricultural guidance.
+Smart irrigation systems use soil moisture measurements and weather information to determine when crops need water. Agricultural drones can capture aerial images 
+that help farmers monitor crop growth and identify potential problems. Machine learning models can analyze environmental and agricultural data to support crop yield
+prediction, disease identification, and resource planning. Digital agricultural platforms also provide farmers with market information, weather forecasts, and agricultural guidance.
