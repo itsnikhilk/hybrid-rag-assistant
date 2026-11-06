@@ -87,5 +87,4 @@ When you run the script, you can test it with topics included in the knowledge b
 
 ---
 
-## License
 
