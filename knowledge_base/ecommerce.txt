@@ -1,3 +1,7 @@
-E-commerce refers to buying and selling products or services through electronic platforms, primarily websites and mobile applications. Online marketplaces connect customers with sellers and provide features such as product catalogs, shopping carts, digital payments, order tracking, and customer reviews.
+E-commerce refers to buying and selling products or services through electronic platforms, primarily websites and mobile applications. Online marketplaces connect 
+customers with sellers and provide features such as product catalogs, shopping carts, digital payments, order tracking, and customer reviews.
 
-Digital marketing involves promoting products and services through online channels such as search engines, social media, websites, email, and online advertising. Search Engine Optimization (SEO) improves the visibility of websites in organic search results. Customer Relationship Management (CRM) systems help businesses organize customer information, track interactions, and manage sales activities. Recommendation systems analyze customer preferences, browsing activity, and purchase history to suggest relevant products. Data analytics helps businesses understand customer behavior and evaluate marketing performance.
+Digital marketing involves promoting products and services through online channels such as search engines, social media, websites, email, and online advertising. 
+Search Engine Optimization (SEO) improves the visibility of websites in organic search results. Customer Relationship Management (CRM) systems help businesses 
+organize customer information, track interactions, and manage sales activities. Recommendation systems analyze customer preferences, browsing activity, and purchase
+history to suggest relevant products. Data analytics helps businesses understand customer behavior and evaluate marketing performance.
