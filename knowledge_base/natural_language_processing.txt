@@ -1,3 +1,7 @@
-Natural Language Processing is a branch of artificial intelligence that enables computers to process, analyze, and generate human language. NLP is used in chatbots, language translation, sentiment analysis, text classification, speech recognition, and information extraction.
+Natural Language Processing is a branch of artificial intelligence that enables computers to process, analyze, and generate human language. 
+NLP is used in chatbots, language translation, sentiment analysis, text classification, speech recognition, and information extraction.
 
-Tokenization divides text into smaller units called tokens. Stemming and lemmatization normalize words into their root or dictionary forms. Named Entity Recognition identifies important entities such as people, organizations, locations, and dates in text. Sentiment analysis determines whether a piece of text expresses positive, negative, or neutral sentiment. Transformer architectures have significantly improved NLP by allowing models to understand relationships between words across larger text contexts.
+Tokenization divides text into smaller units called tokens. Stemming and lemmatization normalize words into their root or dictionary forms.
+Named Entity Recognition identifies important entities such as people, organizations, locations, and dates in text. Sentiment analysis determines whether
+a piece of text expresses positive, negative, or neutral sentiment. Transformer architectures have significantly improved NLP by allowing models to understand 
+relationships between words across larger text contexts.
